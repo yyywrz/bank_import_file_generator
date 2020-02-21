@@ -1,0 +1,13 @@
+
+__pycache__/
+
+# VS Code 
+.vscode/
+
+# export files
+银行导出表/
+导出报告.txt
+
+# private data
+ppl_info/
+excel_info/
